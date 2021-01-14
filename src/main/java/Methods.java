@@ -14,6 +14,7 @@ public class Methods {
 
     public HttpResponse createRequest(String params) {
         url += api_key + params;
+        System.out.println(url);
         return client.doGetRequest(url);
     }
 
