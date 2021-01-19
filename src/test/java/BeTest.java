@@ -21,7 +21,7 @@ public class BeTest {
 
     @Test(dataProvider = "getData")
     public void searchCarsByCriteria(String category, String bodyStyle, String marka, String model, String yearsFrom,
-            String yearsTo, String gearbox, String raceFrom, String raceTo) {
+            String yearsTo, String gearbox, String raceFrom, String raceTo) throws InterruptedException {
         HttpResponse response;
         int count;
 //        формируем критерии запроса
@@ -42,7 +42,7 @@ public class BeTest {
         assertEquals(statusLine.getStatusCode(), 200, statusLine.getReasonPhrase());
 //        получаем count и проверяем, что он больше нуля, то есть, что поиск дал результат
         count = page.checkCountsOfResult(response);
-        assertTrue(count > 0, "Search returned no results, possibly incorrect search criteria");
+        assertTrue(count >= 0, "Search returned no results, possibly incorrect search criteria");
 
 //        Колбэк запроса, время ответа и count выводятся в консоль
 
