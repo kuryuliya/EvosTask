@@ -42,7 +42,7 @@ public class BeTest {
         assertEquals(statusLine.getStatusCode(), 200, statusLine.getReasonPhrase());
 //        получаем count и проверяем, что он больше нуля, то есть, что поиск дал результат
         count = page.checkCountsOfResult(response);
-        assertTrue(count >= 0, "Search returned no results, possibly incorrect search criteria");
+        assertTrue(count > 0, "Search returned no results, possibly incorrect search criteria");
 
 //        Колбэк запроса, время ответа и count выводятся в консоль
 
