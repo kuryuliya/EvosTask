@@ -3,6 +3,13 @@
   "reportUrl" : "https://kuryuliya.github.io/EvosTask/6/",
   "reportName" : "Allure Report with history",
   "data" : {
+    "duration" : 11753
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/6/",
+  "reportName" : "Allure Report with history",
+  "data" : {
     "duration" : 8692
   }
 }, {
