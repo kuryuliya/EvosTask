@@ -11,6 +11,18 @@
     "total" : 6
   }
 }, {
+  "buildOrder" : 1,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
   "buildOrder" : 15,
   "reportUrl" : "https://kuryuliya.github.io/EvosTask/15/",
   "reportName" : "Allure Report with history",

@@ -1,0 +1,136 @@
+{
+  "uid" : "f215a8048310e07b",
+  "name" : "searchCarsByCriteria",
+  "fullName" : "BeTest.searchCarsByCriteria",
+  "historyId" : "a93421671df0b2ad3d96d8e12498fd41",
+  "time" : {
+    "start" : 1617796732433,
+    "stop" : 1617796732575,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "BeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "BeTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "searchCarsByCriteria"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "BeTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az246-940"
+  }, {
+    "name" : "thread",
+    "value" : "3401@fv-az246-940.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "1"
+  }, {
+    "name" : "arg1",
+    "value" : "3"
+  }, {
+    "name" : "arg2",
+    "value" : "28"
+  }, {
+    "name" : "arg3",
+    "value" : "265"
+  }, {
+    "name" : "arg4",
+    "value" : "2017"
+  }, {
+    "name" : "arg5",
+    "value" : "2017"
+  }, {
+    "name" : "arg6",
+    "value" : "1"
+  }, {
+    "name" : "arg7",
+    "value" : "1"
+  }, {
+    "name" : "arg8",
+    "value" : "1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "8a844daca8c74b36",
+        "reportUrl" : "https://kuryuliya.github.io/EvosTask/1//#testresult/8a844daca8c74b36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617796695078,
+          "stop" : 1617796695771,
+          "duration" : 693
+        }
+      }, {
+        "uid" : "462a310790f4a8a8",
+        "reportUrl" : "https://kuryuliya.github.io/EvosTask/15//#testresult/462a310790f4a8a8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612354142259,
+          "stop" : 1612354142523,
+          "duration" : 264
+        }
+      }, {
+        "uid" : "b23f3431842ec1fc",
+        "reportUrl" : "https://kuryuliya.github.io/EvosTask/14//#testresult/b23f3431842ec1fc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611132642848,
+          "stop" : 1611132643114,
+          "duration" : 266
+        }
+      }, {
+        "uid" : "93912be9ae4cb5a9",
+        "reportUrl" : "https://kuryuliya.github.io/EvosTask/13//#testresult/93912be9ae4cb5a9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611132122151,
+          "stop" : 1611132122510,
+          "duration" : 359
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f215a8048310e07b.json",
+  "parameterValues" : [ "1", "3", "28", "265", "2017", "2017", "1", "1", "1" ]
+}
