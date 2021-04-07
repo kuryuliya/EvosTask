@@ -1,4 +1,92 @@
 [ {
+  "buildOrder" : 5,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/5/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 6,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/4/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 6,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/3/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 6,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/2/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 6,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/4/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 6,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/3/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 6,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 6,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 6,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 15,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/15/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 6,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 14,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/14/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 6,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 13,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/13/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 6,
+    "retry" : 0
+  }
+}, {
   "data" : {
     "run" : 0,
     "retry" : 0
