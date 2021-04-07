@@ -1,14 +1,24 @@
 {
   "7fde609a6bb94b0c2e65f5fbcc28f3d5" : {
     "statistic" : {
-      "failed" : 8,
+      "failed" : 9,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 1,
       "unknown" : 0,
-      "total" : 9
+      "total" : 10
     },
     "items" : [ {
+      "uid" : "9405f67a1ec8fe9",
+      "reportUrl" : "https://kuryuliya.github.io/EvosTask/4//#testresult/9405f67a1ec8fe9",
+      "status" : "failed",
+      "statusDetails" : "Search returned no results, possibly incorrect search criteria expected [true] but found [false]",
+      "time" : {
+        "start" : 1617797708597,
+        "stop" : 1617797710932,
+        "duration" : 2335
+      }
+    }, {
       "uid" : "ce16c033d283715b",
       "reportUrl" : "https://kuryuliya.github.io/EvosTask/3//#testresult/ce16c033d283715b",
       "status" : "failed",
@@ -104,11 +114,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 9,
+      "passed" : 10,
       "unknown" : 0,
-      "total" : 9
+      "total" : 10
     },
     "items" : [ {
+      "uid" : "1ff8c30ac80653eb",
+      "reportUrl" : "https://kuryuliya.github.io/EvosTask/4//#testresult/1ff8c30ac80653eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617797717492,
+        "stop" : 1617797718551,
+        "duration" : 1059
+      }
+    }, {
       "uid" : "15dab157ff12594",
       "reportUrl" : "https://kuryuliya.github.io/EvosTask/3//#testresult/15dab157ff12594",
       "status" : "passed",
@@ -196,11 +215,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 9,
+      "passed" : 10,
       "unknown" : 0,
-      "total" : 9
+      "total" : 10
     },
     "items" : [ {
+      "uid" : "31405e512a0c0d94",
+      "reportUrl" : "https://kuryuliya.github.io/EvosTask/4//#testresult/31405e512a0c0d94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617797711019,
+        "stop" : 1617797711217,
+        "duration" : 198
+      }
+    }, {
       "uid" : "3d5905b9041bdaeb",
       "reportUrl" : "https://kuryuliya.github.io/EvosTask/3//#testresult/3d5905b9041bdaeb",
       "status" : "passed",
@@ -288,11 +316,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 9,
+      "passed" : 10,
       "unknown" : 0,
-      "total" : 9
+      "total" : 10
     },
     "items" : [ {
+      "uid" : "370fd465cfcc872d",
+      "reportUrl" : "https://kuryuliya.github.io/EvosTask/4//#testresult/370fd465cfcc872d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617797711423,
+        "stop" : 1617797716339,
+        "duration" : 4916
+      }
+    }, {
       "uid" : "dae596e2891700b4",
       "reportUrl" : "https://kuryuliya.github.io/EvosTask/3//#testresult/dae596e2891700b4",
       "status" : "passed",
@@ -380,11 +417,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 9,
+      "passed" : 10,
       "unknown" : 0,
-      "total" : 9
+      "total" : 10
     },
     "items" : [ {
+      "uid" : "80ef21af3d94973",
+      "reportUrl" : "https://kuryuliya.github.io/EvosTask/4//#testresult/80ef21af3d94973",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617797716382,
+        "stop" : 1617797717489,
+        "duration" : 1107
+      }
+    }, {
       "uid" : "5b64f20c8689a3ac",
       "reportUrl" : "https://kuryuliya.github.io/EvosTask/3//#testresult/5b64f20c8689a3ac",
       "status" : "passed",
@@ -472,11 +518,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 9,
+      "passed" : 10,
       "unknown" : 0,
-      "total" : 9
+      "total" : 10
     },
     "items" : [ {
+      "uid" : "e2db84982adab6a6",
+      "reportUrl" : "https://kuryuliya.github.io/EvosTask/4//#testresult/e2db84982adab6a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617797711222,
+        "stop" : 1617797711420,
+        "duration" : 198
+      }
+    }, {
       "uid" : "5ef4e977a9e3e528",
       "reportUrl" : "https://kuryuliya.github.io/EvosTask/3//#testresult/5ef4e977a9e3e528",
       "status" : "passed",
