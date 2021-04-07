@@ -1,4 +1,11 @@
 [ {
+  "buildOrder" : 3,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/3/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 13024
+  }
+}, {
   "buildOrder" : 1,
   "reportUrl" : "https://kuryuliya.github.io/EvosTask/1/",
   "reportName" : "Allure Report with history",
