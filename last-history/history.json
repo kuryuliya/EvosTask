@@ -1,14 +1,24 @@
 {
   "7fde609a6bb94b0c2e65f5fbcc28f3d5" : {
     "statistic" : {
-      "failed" : 6,
+      "failed" : 7,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 1,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "fcc4d59985d627fd",
+      "reportUrl" : "https://kuryuliya.github.io/EvosTask/2//#testresult/fcc4d59985d627fd",
+      "status" : "failed",
+      "statusDetails" : "Search returned no results, possibly incorrect search criteria expected [true] but found [false]",
+      "time" : {
+        "start" : 1617797457306,
+        "stop" : 1617797459197,
+        "duration" : 1891
+      }
+    }, {
       "uid" : "2b78c37d09cd331e",
       "reportUrl" : "https://kuryuliya.github.io/EvosTask/4//#testresult/2b78c37d09cd331e",
       "status" : "failed",
@@ -84,11 +94,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "441d119c1698125f",
+      "reportUrl" : "https://kuryuliya.github.io/EvosTask/2//#testresult/441d119c1698125f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617797466483,
+        "stop" : 1617797467564,
+        "duration" : 1081
+      }
+    }, {
       "uid" : "b058e6b3e04cbaa",
       "reportUrl" : "https://kuryuliya.github.io/EvosTask/4//#testresult/b058e6b3e04cbaa",
       "status" : "passed",
@@ -158,11 +177,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "14caccd7ddbf5315",
+      "reportUrl" : "https://kuryuliya.github.io/EvosTask/2//#testresult/14caccd7ddbf5315",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617797459302,
+        "stop" : 1617797459510,
+        "duration" : 208
+      }
+    }, {
       "uid" : "213358314a10f77d",
       "reportUrl" : "https://kuryuliya.github.io/EvosTask/4//#testresult/213358314a10f77d",
       "status" : "passed",
@@ -232,11 +260,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "ad23e7c5923238a5",
+      "reportUrl" : "https://kuryuliya.github.io/EvosTask/2//#testresult/ad23e7c5923238a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617797459776,
+        "stop" : 1617797465316,
+        "duration" : 5540
+      }
+    }, {
       "uid" : "84435a01d2a0dcc4",
       "reportUrl" : "https://kuryuliya.github.io/EvosTask/4//#testresult/84435a01d2a0dcc4",
       "status" : "passed",
@@ -306,11 +343,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "9b01da3ec3d82f51",
+      "reportUrl" : "https://kuryuliya.github.io/EvosTask/2//#testresult/9b01da3ec3d82f51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617797465339,
+        "stop" : 1617797466477,
+        "duration" : 1138
+      }
+    }, {
       "uid" : "f9871f30fbed89ce",
       "reportUrl" : "https://kuryuliya.github.io/EvosTask/4//#testresult/f9871f30fbed89ce",
       "status" : "passed",
@@ -380,11 +426,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "48056688acaea988",
+      "reportUrl" : "https://kuryuliya.github.io/EvosTask/2//#testresult/48056688acaea988",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617797459528,
+        "stop" : 1617797459769,
+        "duration" : 241
+      }
+    }, {
       "uid" : "9f0af666c45b32fb",
       "reportUrl" : "https://kuryuliya.github.io/EvosTask/4//#testresult/9f0af666c45b32fb",
       "status" : "passed",
