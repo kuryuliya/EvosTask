@@ -1,60 +1,60 @@
 [ {
-  "uid" : "3fe226def4a29b56",
+  "uid" : "3d5905b9041bdaeb",
   "name" : "searchCarsByCriteria",
   "time" : {
-    "start" : 1617797263095,
-    "stop" : 1617797264664,
-    "duration" : 1569
+    "start" : 1617797500929,
+    "stop" : 1617797501129,
+    "duration" : 200
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "24c209593a7b372e",
-  "name" : "searchCarsByCriteria",
-  "time" : {
-    "start" : 1617797262330,
-    "stop" : 1617797263090,
-    "duration" : 760
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5e73000df1fd9672",
+  "uid" : "5b64f20c8689a3ac",
   "name" : "searchCarsByCriteria1",
   "time" : {
-    "start" : 1617797269704,
-    "stop" : 1617797271189,
-    "duration" : 1485
+    "start" : 1617797506521,
+    "stop" : 1617797507628,
+    "duration" : 1107
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d8aa3f680c5df625",
+  "uid" : "ce16c033d283715b",
   "name" : "searchCarsByCriteria",
   "time" : {
-    "start" : 1617797259814,
-    "stop" : 1617797262230,
-    "duration" : 2416
+    "start" : 1617797499359,
+    "stop" : 1617797500819,
+    "duration" : 1460
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "89f78455c9fa6d26",
-  "name" : "searchCarsByCriteria1",
+  "uid" : "5ef4e977a9e3e528",
+  "name" : "searchCarsByCriteria",
   "time" : {
-    "start" : 1617797264667,
-    "stop" : 1617797269665,
-    "duration" : 4998
+    "start" : 1617797501138,
+    "stop" : 1617797501339,
+    "duration" : 201
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d73fb5f85123fadd",
+  "uid" : "dae596e2891700b4",
   "name" : "searchCarsByCriteria1",
   "time" : {
-    "start" : 1617797271194,
-    "stop" : 1617797272838,
-    "duration" : 1644
+    "start" : 1617797501342,
+    "stop" : 1617797506472,
+    "duration" : 5130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15dab157ff12594",
+  "name" : "searchCarsByCriteria1",
+  "time" : {
+    "start" : 1617797507630,
+    "stop" : 1617797508718,
+    "duration" : 1088
   },
   "status" : "passed",
   "severity" : "normal"
