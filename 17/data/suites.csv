@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Thu Apr 08 10:13:20 GMT 2021","Thu Apr 08 10:13:22 GMT 2021","2050","Surefire suite","Surefire test","BeTest","BeTest","searchCarsByCriteria1","searchCarsByCriteria1",""
+"broken","Thu Apr 08 10:13:20 GMT 2021","Thu Apr 08 10:13:20 GMT 2021","13","Surefire suite","Surefire test","BeTest","BeTest","searchCarsByCriteria","searchCarsByCriteria",""
+"broken","Thu Apr 08 10:13:22 GMT 2021","Thu Apr 08 10:13:22 GMT 2021","36","Surefire suite","Surefire test","BeTest","BeTest","searchCarsByCriteria1","searchCarsByCriteria1",""
+"broken","Thu Apr 08 10:13:20 GMT 2021","Thu Apr 08 10:13:20 GMT 2021","14","Surefire suite","Surefire test","BeTest","BeTest","searchCarsByCriteria","searchCarsByCriteria",""
+"broken","Thu Apr 08 10:13:20 GMT 2021","Thu Apr 08 10:13:20 GMT 2021","557","Surefire suite","Surefire test","BeTest","BeTest","searchCarsByCriteria","searchCarsByCriteria",""
+"broken","Thu Apr 08 10:13:22 GMT 2021","Thu Apr 08 10:13:22 GMT 2021","25","Surefire suite","Surefire test","BeTest","BeTest","searchCarsByCriteria1","searchCarsByCriteria1",""
