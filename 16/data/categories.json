@@ -1,0 +1,52 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "java.lang.NullPointerException",
+      "children" : [ {
+        "name" : "searchCarsByCriteria",
+        "uid" : "afb30879236e5d11",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617876279771,
+          "stop" : 1617876280416,
+          "duration" : 645
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1", "3", "47", "6", "2017", "2017", "2", "1", "1" ]
+      }, {
+        "name" : "searchCarsByCriteria",
+        "uid" : "65cbfc739062c419",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617876280532,
+          "stop" : 1617876280541,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1", "3", "79", "698", "2017", "2017", "1", "1", "1" ]
+      }, {
+        "name" : "searchCarsByCriteria",
+        "uid" : "9a963ca2859ed869",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617876280565,
+          "stop" : 1617876280583,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1", "3", "28", "265", "2017", "2017", "1", "1", "1" ]
+      } ],
+      "uid" : "5592898b36d684905e31486a23088bda"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}
