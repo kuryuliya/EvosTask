@@ -6,13 +6,13 @@
       "name" : "Search returned no results, possibly incorrect search criteria expected [true] but found [false]",
       "children" : [ {
         "name" : "searchCarsByCriteria",
-        "uid" : "3bbdacfb7a6f67f",
+        "uid" : "48670c4e3f47e681",
         "parentUid" : "85d4121fc378694fc0faee78a54aa09d",
         "status" : "failed",
         "time" : {
-          "start" : 1612354139980,
-          "stop" : 1612354141881,
-          "duration" : 1901
+          "start" : 1617875851632,
+          "stop" : 1617875853287,
+          "duration" : 1655
         },
         "flaky" : false,
         "newFailed" : false,
