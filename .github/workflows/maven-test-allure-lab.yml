@@ -40,12 +40,12 @@ jobs:
 
       - name: Run Test(UAT)
         if: contains(github.event.inputs.environment, 'uat')
-        run: mvn test
+        run: mvn test -P uat
         continue-on-error: true
 
       - name: Run Test(Lab)
         if: contains(github.event.inputs.environment, 'lab')
-        run: mvn test
+        run: mvn test -P lab
         continue-on-error: true
 
       - name: Get Allure history
