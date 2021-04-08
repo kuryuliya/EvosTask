@@ -1,0 +1,95 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "java.lang.NullPointerException",
+      "children" : [ {
+        "name" : "searchCarsByCriteria",
+        "uid" : "39b49aa3e84eb17f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617877333215,
+          "stop" : 1617877333712,
+          "duration" : 497
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1", "3", "47", "6", "2017", "2017", "2", "1", "1" ]
+      }, {
+        "name" : "searchCarsByCriteria",
+        "uid" : "4419560f7dfd4fca",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617877333815,
+          "stop" : 1617877333829,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1", "3", "79", "698", "2017", "2017", "1", "1", "1" ]
+      }, {
+        "name" : "searchCarsByCriteria",
+        "uid" : "8569020fca103109",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617877333845,
+          "stop" : 1617877333862,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1", "3", "28", "265", "2017", "2017", "1", "1", "1" ]
+      } ],
+      "uid" : "5592898b36d684905e31486a23088bda"
+    }, {
+      "name" : "uat-developers.ria.com",
+      "children" : [ {
+        "name" : "searchCarsByCriteria1",
+        "uid" : "46fc0309d980dee2",
+        "parentUid" : "611ef242ace9a1a7864d7769b322ef88",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617877333872,
+          "stop" : 1617877336254,
+          "duration" : 2382
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1", "3", "47", "6", "2017", "2017", "2", "1", "1" ]
+      }, {
+        "name" : "searchCarsByCriteria1",
+        "uid" : "f9b532548259cf0b",
+        "parentUid" : "611ef242ace9a1a7864d7769b322ef88",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617877336277,
+          "stop" : 1617877336315,
+          "duration" : 38
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1", "3", "79", "698", "2017", "2017", "1", "1", "1" ]
+      }, {
+        "name" : "searchCarsByCriteria1",
+        "uid" : "bf57754f0f4bc4ae",
+        "parentUid" : "611ef242ace9a1a7864d7769b322ef88",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617877336318,
+          "stop" : 1617877336334,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1", "3", "28", "265", "2017", "2017", "1", "1", "1" ]
+      } ],
+      "uid" : "611ef242ace9a1a7864d7769b322ef88"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}
