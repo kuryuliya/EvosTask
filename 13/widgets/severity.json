@@ -1,60 +1,60 @@
 [ {
-  "uid" : "52e80049e6ce5b34",
+  "uid" : "b064eacc38a22ae1",
   "name" : "searchCarsByCriteria1",
   "time" : {
-    "start" : 1611132128884,
-    "stop" : 1611132130055,
-    "duration" : 1171
+    "start" : 1617875443024,
+    "stop" : 1617875444579,
+    "duration" : 1555
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "e02e5833d3c6a11",
+  "uid" : "853b66cbb71752a8",
+  "name" : "searchCarsByCriteria",
+  "time" : {
+    "start" : 1617875435112,
+    "stop" : 1617875436781,
+    "duration" : 1669
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5760402d03336fc7",
+  "name" : "searchCarsByCriteria",
+  "time" : {
+    "start" : 1617875436885,
+    "stop" : 1617875437476,
+    "duration" : 591
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c1fad8f560acd1a",
   "name" : "searchCarsByCriteria1",
   "time" : {
-    "start" : 1611132127630,
-    "stop" : 1611132128880,
-    "duration" : 1250
+    "start" : 1617875444582,
+    "stop" : 1617875445781,
+    "duration" : 1199
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "e316c8bb984d972a",
+  "uid" : "3a19d490e008c1d5",
+  "name" : "searchCarsByCriteria",
+  "time" : {
+    "start" : 1617875437484,
+    "stop" : 1617875438298,
+    "duration" : 814
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eac476fbabb70d33",
   "name" : "searchCarsByCriteria1",
   "time" : {
-    "start" : 1611132122515,
-    "stop" : 1611132127602,
-    "duration" : 5087
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "93912be9ae4cb5a9",
-  "name" : "searchCarsByCriteria",
-  "time" : {
-    "start" : 1611132122151,
-    "stop" : 1611132122510,
-    "duration" : 359
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a6eb04d58e8c4c51",
-  "name" : "searchCarsByCriteria",
-  "time" : {
-    "start" : 1611132119945,
-    "stop" : 1611132121751,
-    "duration" : 1806
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ab7cc1f3fd2e8369",
-  "name" : "searchCarsByCriteria",
-  "time" : {
-    "start" : 1611132121850,
-    "stop" : 1611132122146,
-    "duration" : 296
+    "start" : 1617875438304,
+    "stop" : 1617875442976,
+    "duration" : 4672
   },
   "status" : "passed",
   "severity" : "normal"
