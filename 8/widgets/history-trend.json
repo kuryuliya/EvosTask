@@ -1,4 +1,196 @@
 [ {
+  "buildOrder" : 8,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/8/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/7/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/6/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/6/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/5/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/5/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/4/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/3/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/2/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/4/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/3/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
+  "buildOrder" : 15,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/15/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
+  "buildOrder" : 14,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/14/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
+  "buildOrder" : 13,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/13/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 6,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
   "data" : {
     "failed" : 0,
     "broken" : 0,
