@@ -1,4 +1,11 @@
 [ {
+  "buildOrder" : 9,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/9/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "Product defects" : 1
+  }
+}, {
   "buildOrder" : 8,
   "reportUrl" : "https://kuryuliya.github.io/EvosTask/8/",
   "reportName" : "Allure Report with history",
