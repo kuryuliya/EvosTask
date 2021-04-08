@@ -3,14 +3,28 @@
   "reportUrl" : "https://kuryuliya.github.io/EvosTask/14/",
   "reportName" : "Allure Report with history",
   "data" : {
-    "duration" : 8818
+    "duration" : 8827
   }
 }, {
   "buildOrder" : 13,
   "reportUrl" : "https://kuryuliya.github.io/EvosTask/13/",
   "reportName" : "Allure Report with history",
   "data" : {
-    "duration" : 10110
+    "duration" : 10669
+  }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/12/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 8487
+  }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/11/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 12662
   }
 }, {
   "data" : { }
