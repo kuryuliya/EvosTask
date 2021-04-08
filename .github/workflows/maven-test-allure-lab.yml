@@ -10,7 +10,11 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-
+    inputs:
+      environment:
+        description: 'Environment (lab/uat)'
+        required: true
+        default: 'lab'
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   autotests:
@@ -34,8 +38,13 @@ jobs:
       - name: Install dependencies
         run: mvn dependency:go-offline compile compiler:testCompile
 
-      - name: Run Test
-        if: always()
+      - name: Run Test(Lab)
+        if: contains(github.event.inputs.environment, 'lab')
+        run: mvn test
+        continue-on-error: true
+
+      - name: Run Test(UAT)
+        if: contains(github.event.inputs.environment, 'uat')
         run: mvn test
         continue-on-error: true
 
