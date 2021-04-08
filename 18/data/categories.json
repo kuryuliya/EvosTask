@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Search returned no results, possibly incorrect search criteria expected [true] but found [false]",
+      "children" : [ {
+        "name" : "searchCarsByCriteria",
+        "uid" : "14b9ec8098d01320",
+        "parentUid" : "85d4121fc378694fc0faee78a54aa09d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617877122271,
+          "stop" : 1617877124439,
+          "duration" : 2168
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1", "3", "47", "6", "2017", "2017", "2", "1", "1" ]
+      } ],
+      "uid" : "85d4121fc378694fc0faee78a54aa09d"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}

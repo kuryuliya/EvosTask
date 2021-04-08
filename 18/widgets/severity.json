@@ -1,0 +1,61 @@
+[ {
+  "uid" : "66bb9af195b81200",
+  "name" : "searchCarsByCriteria1",
+  "time" : {
+    "start" : 1617877133481,
+    "stop" : 1617877134498,
+    "duration" : 1017
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6bdcae1f0d838064",
+  "name" : "searchCarsByCriteria",
+  "time" : {
+    "start" : 1617877125501,
+    "stop" : 1617877126393,
+    "duration" : 892
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14b9ec8098d01320",
+  "name" : "searchCarsByCriteria",
+  "time" : {
+    "start" : 1617877122271,
+    "stop" : 1617877124439,
+    "duration" : 2168
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "257aa22992107987",
+  "name" : "searchCarsByCriteria1",
+  "time" : {
+    "start" : 1617877126397,
+    "stop" : 1617877131988,
+    "duration" : 5591
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f69627cd7501becd",
+  "name" : "searchCarsByCriteria",
+  "time" : {
+    "start" : 1617877124543,
+    "stop" : 1617877125490,
+    "duration" : 947
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d743c28ecd30a82",
+  "name" : "searchCarsByCriteria1",
+  "time" : {
+    "start" : 1617877132055,
+    "stop" : 1617877133477,
+    "duration" : 1422
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
