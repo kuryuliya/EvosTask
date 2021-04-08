@@ -1,1 +1,123 @@
-{ }
+{
+  "7fde609a6bb94b0c2e65f5fbcc28f3d5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "69bb3d7617a59041",
+      "reportUrl" : "https://kuryuliya.github.io/EvosTask/11//#testresult/69bb3d7617a59041",
+      "status" : "failed",
+      "statusDetails" : "Search returned no results, possibly incorrect search criteria expected [true] but found [false]",
+      "time" : {
+        "start" : 1617871149781,
+        "stop" : 1617871151883,
+        "duration" : 2102
+      }
+    } ]
+  },
+  "1b4d0520097bf0c676fd00e8d3121b91" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c703bcf326d42f47",
+      "reportUrl" : "https://kuryuliya.github.io/EvosTask/11//#testresult/c703bcf326d42f47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617871161300,
+        "stop" : 1617871162443,
+        "duration" : 1143
+      }
+    } ]
+  },
+  "84f554d498a3f66f99fd2b6611196695" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b1501d820336008c",
+      "reportUrl" : "https://kuryuliya.github.io/EvosTask/11//#testresult/b1501d820336008c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617871151964,
+        "stop" : 1617871153115,
+        "duration" : 1151
+      }
+    } ]
+  },
+  "c6354fb839d28e3cb66c07c8ddac8436" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2dc8798073d088a",
+      "reportUrl" : "https://kuryuliya.github.io/EvosTask/11//#testresult/d2dc8798073d088a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617871154115,
+        "stop" : 1617871159395,
+        "duration" : 5280
+      }
+    } ]
+  },
+  "22058474d93b30a1608f70221a58ec60" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "38a294cce446994d",
+      "reportUrl" : "https://kuryuliya.github.io/EvosTask/11//#testresult/38a294cce446994d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617871159458,
+        "stop" : 1617871161296,
+        "duration" : 1838
+      }
+    } ]
+  },
+  "a93421671df0b2ad3d96d8e12498fd41" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8185be541dece58",
+      "reportUrl" : "https://kuryuliya.github.io/EvosTask/11//#testresult/8185be541dece58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617871153121,
+        "stop" : 1617871154110,
+        "duration" : 989
+      }
+    } ]
+  }
+}
