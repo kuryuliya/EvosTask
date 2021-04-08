@@ -1,0 +1,95 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Surefire suite",
+    "children" : [ {
+      "name" : "Surefire test",
+      "children" : [ {
+        "name" : "BeTest",
+        "children" : [ {
+          "name" : "searchCarsByCriteria",
+          "uid" : "ac083703164f5574",
+          "parentUid" : "cb2ed0177d5ca7ad74c0cba52ebf756f",
+          "status" : "failed",
+          "time" : {
+            "start" : 1617878496638,
+            "stop" : 1617878497997,
+            "duration" : 1359
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "1", "3", "47", "6", "2017", "2017", "2", "1", "1" ]
+        }, {
+          "name" : "searchCarsByCriteria",
+          "uid" : "59f6da5357a46757",
+          "parentUid" : "cb2ed0177d5ca7ad74c0cba52ebf756f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617878498082,
+            "stop" : 1617878498248,
+            "duration" : 166
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "1", "3", "79", "698", "2017", "2017", "1", "1", "1" ]
+        }, {
+          "name" : "searchCarsByCriteria",
+          "uid" : "d68788ce5c3cc66a",
+          "parentUid" : "cb2ed0177d5ca7ad74c0cba52ebf756f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617878498254,
+            "stop" : 1617878498414,
+            "duration" : 160
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "1", "3", "28", "265", "2017", "2017", "1", "1", "1" ]
+        }, {
+          "name" : "searchCarsByCriteria1",
+          "uid" : "8c2ede0ba736546f",
+          "parentUid" : "cb2ed0177d5ca7ad74c0cba52ebf756f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617878498418,
+            "stop" : 1617878503133,
+            "duration" : 4715
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "1", "3", "47", "6", "2017", "2017", "2", "1", "1" ]
+        }, {
+          "name" : "searchCarsByCriteria1",
+          "uid" : "a7ce841d10b3ca43",
+          "parentUid" : "cb2ed0177d5ca7ad74c0cba52ebf756f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617878503181,
+            "stop" : 1617878504094,
+            "duration" : 913
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "1", "3", "79", "698", "2017", "2017", "1", "1", "1" ]
+        }, {
+          "name" : "searchCarsByCriteria1",
+          "uid" : "598b046b0b821d48",
+          "parentUid" : "cb2ed0177d5ca7ad74c0cba52ebf756f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617878504096,
+            "stop" : 1617878504957,
+            "duration" : 861
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "1", "3", "28", "265", "2017", "2017", "1", "1", "1" ]
+        } ],
+        "uid" : "cb2ed0177d5ca7ad74c0cba52ebf756f"
+      } ],
+      "uid" : "1fcb2e6ec8e5b5e8a1f2a70b87c80b24"
+    } ],
+    "uid" : "940a09faf31371a51747026c9d178f0a"
+  } ],
+  "name" : "suites"
+}
