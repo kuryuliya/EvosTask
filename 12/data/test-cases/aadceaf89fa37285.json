@@ -1,0 +1,152 @@
+{
+  "uid" : "aadceaf89fa37285",
+  "name" : "searchCarsByCriteria1",
+  "fullName" : "BeTest.searchCarsByCriteria1",
+  "historyId" : "1b4d0520097bf0c676fd00e8d3121b91",
+  "time" : {
+    "start" : 1617871326021,
+    "stop" : 1617871326809,
+    "duration" : 788
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "vdfvd",
+      "time" : {
+        "start" : 1617871326022,
+        "stop" : 1617871326022,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "4ccce8e0957adfc2",
+      "name" : "vdfvdd",
+      "source" : "4ccce8e0957adfc2.txt",
+      "type" : "text/plain",
+      "size" : 5
+    }, {
+      "uid" : "cb6727adf2b24401",
+      "name" : "Request",
+      "source" : "cb6727adf2b24401.html",
+      "type" : "text/html",
+      "size" : 705
+    }, {
+      "uid" : "e7db37056fa5f29",
+      "name" : "HTTP/1.1 200 OK",
+      "source" : "e7db37056fa5f29.html",
+      "type" : "text/html",
+      "size" : 6015
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "BeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "BeTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "searchCarsByCriteria1"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "BeTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az127-839"
+  }, {
+    "name" : "thread",
+    "value" : "3076@fv-az127-839.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "1"
+  }, {
+    "name" : "arg1",
+    "value" : "3"
+  }, {
+    "name" : "arg2",
+    "value" : "28"
+  }, {
+    "name" : "arg3",
+    "value" : "265"
+  }, {
+    "name" : "arg4",
+    "value" : "2017"
+  }, {
+    "name" : "arg5",
+    "value" : "2017"
+  }, {
+    "name" : "arg6",
+    "value" : "1"
+  }, {
+    "name" : "arg7",
+    "value" : "1"
+  }, {
+    "name" : "arg8",
+    "value" : "1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "c703bcf326d42f47",
+        "reportUrl" : "https://kuryuliya.github.io/EvosTask/11//#testresult/c703bcf326d42f47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617871161300,
+          "stop" : 1617871162443,
+          "duration" : 1143
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "aadceaf89fa37285.json",
+  "parameterValues" : [ "1", "3", "28", "265", "2017", "2017", "1", "1", "1" ]
+}

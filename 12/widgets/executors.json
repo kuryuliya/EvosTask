@@ -1,1 +1,10 @@
-[ ]
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://kuryuliya.github.io/EvosTask",
+  "buildOrder" : 12,
+  "buildName" : "GitHub Actions Run #728877241",
+  "buildUrl" : "https://github.com/kuryuliya/EvosTask/actions/runs/728877241",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://kuryuliya.github.io/EvosTask/12/"
+} ]
