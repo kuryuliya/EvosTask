@@ -38,13 +38,13 @@ jobs:
       - name: Install dependencies
         run: mvn dependency:go-offline compile compiler:testCompile
 
-      - name: Run Test(Lab)
-        if: contains(github.event.inputs.environment, 'lab')
+      - name: Run Test(UAT)
+        if: contains(github.event.inputs.environment, 'uat')
         run: mvn test
         continue-on-error: true
 
-      - name: Run Test(UAT)
-        if: contains(github.event.inputs.environment, 'uat')
+      - name: Run Test(Lab)
+        if: contains(github.event.inputs.environment, 'lab')
         run: mvn test
         continue-on-error: true
 
