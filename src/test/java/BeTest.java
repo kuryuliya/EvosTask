@@ -65,7 +65,7 @@ public class BeTest {
         params.append("&raceFrom=" + raceFrom);
         params.append("&raceTo=" + raceTo);
         String url =
-                "https://developers.ria.com/auto/search?" + "api_key=MUcjo3x6iWRA5sRPQZFzkEAFTXnT2qKPELpO8lxh" + params
+                Methods.getUrl() + "api_key=MUcjo3x6iWRA5sRPQZFzkEAFTXnT2qKPELpO8lxh" + params
                         .toString();
 //        делаем запрос, получаем ответ
         System.out.println(url);

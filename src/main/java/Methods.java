@@ -22,7 +22,7 @@ public class Methods {
         System.out.println(url);
         return client.doGetRequest(url);
     }
-    private static String getUrl() {
+    public static String getUrl() {
         String CONFIG_FILE = "application.yml";
         Properties properties = new Properties();
         InputStream is = Methods.class.getClassLoader().getResourceAsStream(CONFIG_FILE);
