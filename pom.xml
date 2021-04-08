@@ -104,6 +104,45 @@
     <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
 
   </dependencies>
+  
+  <!-- Profiles-->
+  <profiles>
+  <profile>
+    <id>lab</id>
+    <properties>
+      <activatedProperties>lab</activatedProperties>
+    </properties>
+    <activation>
+      <activeByDefault>true</activeByDefault>
+    </activation>
 
+    <build>
+      <resources>
+        <resource>
+          <directory>src/main/resources/lab</directory>
+        </resource>
+      </resources>
+    </build>
+
+  </profile>
+    <profile>
+      <id>uat</id>
+      <properties>
+        <activatedProperties>uat</activatedProperties>
+      </properties>
+      <activation>
+        <activeByDefault>false</activeByDefault>
+      </activation>
+
+      <build>
+        <resources>
+          <resource>
+            <directory>src/main/resources/uat</directory>
+          </resource>
+        </resources>
+      </build>
+
+    </profile>
+  </profiles>
 
 </project>
